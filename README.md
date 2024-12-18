@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardopml&label=Profile%20views&color=0e75b6&style=flat" alt="leonardopml" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardopml" alt="leonardopml" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardopml&theme=gruvbox" alt="leonardopml" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
